@@ -73,8 +73,8 @@ Actuellement en formation de développeur web avec un focus sur les technologies
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobinpiea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobinpiea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bobinpiea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" height="180px" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobinpiea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180px" width="49%" />
 </div>
 <br>
 <div align="center">
