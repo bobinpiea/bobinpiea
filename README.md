@@ -1,10 +1,6 @@
-# Welcome to my github profile !
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobinpiea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobinpiea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+github+profile+!)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,17 +8,27 @@
 
 ## 🎯 About Me / À propos de moi
 
-### ▸ English
+<details>
+<summary>▸ English</summary>
 
-I'm a junior web developer in training, passionate about programming. I'm learning through both formal education and self-teaching.
+<br>
+
+I'm a junior web developer in training, enthusiastic about programming and eager to invest myself in meaningful projects. I'm learning through both formal education and self-teaching.
 
 Currently learning web development with a focus on backend technologies, particularly PHP and Symfony framework.
 
-### ▾ Français
+</details>
 
-Je suis un développeur web junior en formation, passionné par la programmation. J'apprends à travers une formation et l'autodidaxie.
+<details>
+<summary>▾ Français</summary>
+
+<br>
+
+Je suis un développeur web junior en formation, enthousiaste à l'idée de programmer et de m'investir dans des projets qui ont du sens. J'apprends à travers une formation et l'autodidaxie.
 
 Actuellement en formation de développeur web avec un focus sur les technologies backend, particulièrement PHP et le framework Symfony.
+
+</details>
 
 ---
 
@@ -53,22 +59,26 @@ Actuellement en formation de développeur web avec un focus sur les technologies
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobinpiea&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
 ## 📚 Currently Learning / En cours d'apprentissage
 
 - 🔹 Approfondissement de Symfony
 - 🔹 Deepening my knowledge of Symfony
 - 🔹 Best practices en développement web
 - 🔹 Web development best practices
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobinpiea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobinpiea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobinpiea&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
 
 ---
 
