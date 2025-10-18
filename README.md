@@ -9,7 +9,7 @@
 ## 🎯 About Me / À propos de moi
 
 <details>
-<summary>▸ English</summary>
+<summary>English</summary>
 
 <br>
 
@@ -20,7 +20,7 @@ Currently learning web development with a focus on backend technologies, particu
 </details>
 
 <details>
-<summary>▾ Français</summary>
+<summary>Français</summary>
 
 <br>
 
