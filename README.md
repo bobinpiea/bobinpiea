@@ -78,5 +78,5 @@ Actuellement en formation de développeur web avec un focus sur les technologies
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bobinpiea&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobinpiea&theme=github_dark" width="100%" />
 </div>
