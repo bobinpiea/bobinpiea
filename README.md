@@ -60,13 +60,9 @@ Actuellement en formation de développeur web avec un focus sur les technologies
 
 ## 📚 Currently Learning / En cours d'apprentissage
 
-🔹 Approfondissement de Symfony
+🔹 Approfondissement de Symfony / Deepening my knowledge of Symfony
 
-🔹 Deepening my knowledge of Symfony
-
-🔹 Best practices en développement web
-
-🔹 Web development best practices
+🔹 Best practices en développement web /  Web development best practices
 
 ---
 
