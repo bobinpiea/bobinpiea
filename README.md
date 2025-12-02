@@ -62,6 +62,8 @@ Actuellement en formation de développeur web avec un focus sur les technologies
 
 🔹 Deepening my knowledge of Symfony / Approfondissement de Symfony 
 
+🔹 Java & Spring Boot / Apprentissage de Java et Spring Boot  
+
 🔹 Web development best practices / Best practices en développement web
 
 ---
