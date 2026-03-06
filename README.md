@@ -18,7 +18,7 @@ Currently learning web development with a focus on backend technologies, particu
 
 ---
 
-## 🚀 Skills / Compétences
+## 🚀 Skills
 
 ### 💻 Web Development
 
@@ -44,7 +44,7 @@ Currently learning web development with a focus on backend technologies, particu
 
 ---
 
-## 📚 Currently Learning / En cours d'apprentissage
+## 📚 Currently Learning
 
 🔹 Deepening my knowledge of Symfony / Approfondissement de Symfony 
 
