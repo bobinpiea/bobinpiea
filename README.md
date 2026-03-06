@@ -9,7 +9,6 @@
 ## 🎯 About Me
 
 <details>
-<summary>English</summary>
 
 <br>
 
