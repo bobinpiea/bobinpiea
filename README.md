@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 About Me / À propos de moi
+## 🎯 About Me
 
 <details>
 <summary>English</summary>
@@ -19,16 +19,6 @@ Currently learning web development with a focus on backend technologies, particu
 
 </details>
 
-<details>
-<summary>Français</summary>
-
-<br>
-
-Je suis un développeur web junior en formation, enthousiaste à l'idée de programmer et de m'investir dans des projets qui ont du sens. J'apprends à travers une formation et l'autodidaxie.
-
-Actuellement en formation de développeur web avec un focus sur les technologies backend, particulièrement PHP et le framework Symfony.
-
-</details>
 
 ---
 
@@ -41,8 +31,6 @@ Actuellement en formation de développeur web avec un focus sur les technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 🗄️ Database
 
@@ -63,8 +51,6 @@ Actuellement en formation de développeur web avec un focus sur les technologies
 ## 📚 Currently Learning / En cours d'apprentissage
 
 🔹 Deepening my knowledge of Symfony / Approfondissement de Symfony 
-
-🔹 Java & Spring Boot / Apprentissage de Java et Spring Boot  
 
 🔹 Web development best practices / Best practices en développement web
 
