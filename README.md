@@ -7,7 +7,6 @@
 ---
 
 ## 🎯 About Me
-
 <br>
 
 I'm a junior web developer in training, enthusiastic about programming and eager to invest myself in meaningful projects. I'm learning through both formal education and self-teaching.
