@@ -1,20 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+github+profile+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Junior+Web+Developer;Learning+PHP+and+Symfony)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 🎯 About Me
-<br>
 
-I'm a junior web developer in training, enthusiastic about programming and eager to invest myself in meaningful projects. I'm learning through both formal education and self-teaching.
+I'm a junior web developer in training, enthusiastic about programming and eager to invest myself in meaningful projects.  
+I'm learning through both formal education and self-teaching.
 
-Currently learning web development with a focus on backend technologies, particularly PHP and Symfony framework.
-
-</details>
-
+Currently learning web development with a focus on backend technologies, particularly PHP and Symfony.
 
 ---
 
@@ -46,31 +43,13 @@ Currently learning web development with a focus on backend technologies, particu
 
 ## 📚 Currently Learning
 
-🔹 Deepening my knowledge of Symfony / Approfondissement de Symfony 
-
-🔹 Web development best practices / Best practices en développement web
+🔹 Deepening my knowledge of Symfony  
+🔹 Web development best practices
 
 ---
 
-## 📊 GitHub Stats
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+github+profile+!)](https://git.io/typing-svg)
+## 📊 GitHub Profile
 
 <div align="center">
-  <img
-    src="https://TON-DOMAINE-VERCEL.vercel.app/api?username=bobinpiea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"
-    height="180px"
-    width="49%"
-    alt="GitHub Stats de bobinpiea"
-  />
-  <img
-    src="https://TON-DOMAINE-VERCEL.vercel.app/api/top-langs/?username=bobinpiea&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    height="180px"
-    width="49%"
-    alt="Top Langages de bobinpiea"
-  />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobinpiea&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobinpiea&theme=github_dark" width="100%" alt="GitHub profile summary" />
 </div>
