@@ -55,8 +55,18 @@ Currently learning web development with a focus on backend technologies, particu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobinpiea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" height="180px" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobinpiea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180px" width="49%" />
+  <img
+    src="https://TON-DOMAINE-VERCEL.vercel.app/api?username=bobinpiea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"
+    height="180px"
+    width="49%"
+    alt="GitHub Stats de bobinpiea"
+  />
+  <img
+    src="https://TON-DOMAINE-VERCEL.vercel.app/api/top-langs/?username=bobinpiea&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    height="180px"
+    width="49%"
+    alt="Top Langages de bobinpiea"
+  />
 </div>
 <br>
 <div align="center">
