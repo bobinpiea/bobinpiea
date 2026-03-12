@@ -46,9 +46,9 @@ Currently learning web development with a focus on backend technologies, particu
 
 ## 📚 Currently Learning
 
-🔹 Deepening my knowledge of Symfony / Approfondissement de Symfony 
+🔹 Deepening my knowledge of Symfony
 
-🔹 Web development best practices / Best practices en développement web
+🔹 Web development best practices
 
 ---
 
