@@ -74,5 +74,6 @@ Currently learning web development with a focus on backend technologies, particu
 </div>
 
 ----
+## Contact
 
 Email : bobinpierreandre@gmail.com
