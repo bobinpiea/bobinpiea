@@ -73,3 +73,6 @@ Currently learning web development with a focus on backend technologies, particu
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobinpiea&theme=github_dark" width="100%" />
 </div>
 
+----
+
+Email : bobinpierreandre@gmail.com
